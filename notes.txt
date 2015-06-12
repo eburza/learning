@@ -19,3 +19,27 @@ review; beginning html and css
 test: powtórzenie znaków graficznych, prawidowego wpisania komend; jeden blad
 
 
+WHAT IS HTML
+
+What is HTML
+video: czym jest HTML, do czego pierwotnie zosta stworzony; pojcie strony internetowej; czym internet jest
+
+html history lesson
+test: czym jest html i do czego suzy; rodzaje wyszukiwarek; 
+
+Draw wireframes
+video: projektowanie strony; okrelenie celu, dla ktorego tworzymy strone; wizualne rozrysowanie ukadu strony
+
+build structure
+video: html5-nowe elementy html; atrybuty- niewidzialne na stronie informacje dotyczce zamieszczanych danych; elementy html- <!DOCTYPE HTML><title><head><body><meta charset="utf-8">(informacje dotyczce używanego formatowania strony)
+
+create the content containers
+video: elementy strony widzialne przez użytkownika: <header> <h1> tytu strony, <section>podzial sekcji <p>paragrafy w sekcji <footer> powtarzalny element na dole strony <h2> podtytul
+
+use html elements
+exercise: wpisanie w zeszycie zapoznanych elementów html
+
+review: html first
+test: znaczenie poszczególnych eleentów jzyka html, odpowiednie rozmieszczenie ich na stronie
+
+
