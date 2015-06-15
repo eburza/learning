@@ -6,10 +6,23 @@
 11:00 - 11:40 - reading about HTML [learn.shayhowe.com]
 
 2015-06-13, sobota
-15:00 - 16:00
-17:00 - 18:00
 
 2015-06-14, niedziela
-21:30 - 22:30
 
+2015-06-15, poniedzialek
+23:00 - 23:30 - creating html content
 
+2015-06-16, wtorek
+17:30 - 18:00
+
+2015-06-17, sroda
+13:00 - 15:00
+
+2015-06-18, czwartek
+13:00 - 15:00
+
+2015-06-19, piatek
+
+2015-06-20, sobota
+
+2015-06-21, niedziela
