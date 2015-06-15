@@ -42,4 +42,10 @@ exercise: wpisanie w zeszycie zapoznanych elementów html
 review: html first
 test: znaczenie poszczególnych eleentów jzyka html, odpowiednie rozmieszczenie ich na stronie
 
+CREATE HTML CONTENT
+use the navigation elements
+video: twożenie hiperczy, lista na stronie i tworzenie odnoników do niej
+
+create navigation with list
+exercise: tworzenie listy nawigacji w stronie
 
