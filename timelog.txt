@@ -13,7 +13,7 @@
 23:00 - 23:30 - creating html content
 
 2015-06-16, wtorek
-17:30 - 18:00
+18:00 - 19:00 - creating html content
 
 2015-06-17, sroda
 13:00 - 15:00
@@ -24,5 +24,7 @@
 2015-06-19, piatek
 
 2015-06-20, sobota
+
+2015-06-21, niedziela
 
 2015-06-21, niedziela
