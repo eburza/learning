@@ -49,3 +49,12 @@ video: twożenie hiperczy, lista na stronie i tworzenie odnoników do niej
 create navigation with list
 exercise: tworzenie listy nawigacji w stronie
 
+structure the image gallery
+video: funkcja relative path i absolute path, dotyczcych źruda grafiki stosowanej na stronie; opisanie kodu do umieszczenia grafiki 
+
+add image gallery content
+video: dodawanie grafiki na strone, dostosowanie wielkosci 
+
+organize ith unordered list
+exercise: wpisanie kodu umieszczajcego grafke na stronie
+
