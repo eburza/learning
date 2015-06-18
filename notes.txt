@@ -58,3 +58,14 @@ video: dodawanie grafiki na strone, dostosowanie wielkosci
 organize ith unordered list
 exercise: wpisanie kodu umieszczajcego grafke na stronie
 
+build the footer
+video: używanie relativ links i absolute links, dodawanie ikonek i hiperlczy z innymi stronami jak twitter czy fb;
+
+add social media links
+exercise: dodawanie ikon oraz linków do mediów spoecznociowych
+
+include external CSS
+video: wprowadzenie css do dokumentu html, wpisanie relatywnego poczenia midzy plikiem html a css
+
+test: poznane skroty, wyjasnienia niektórych pojeć
+
