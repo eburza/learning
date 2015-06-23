@@ -69,3 +69,13 @@ video: wprowadzenie css do dokumentu html, wpisanie relatywnego poczenia midzy p
 
 test: poznane skroty, wyjasnienia niektórych pojeć
 
+
+CSS- CASCADINK STELE SCHEETS
+What is CSS
+video:czym jest css, pisownia css: rule, selector, declaration, property; ustawinie color i background-color; <style> element html dotycz  
+cy jzyka css
+css facts
+quiz: 1 blad
+
+use ID selectors
+video: 
