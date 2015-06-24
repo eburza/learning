@@ -23,9 +23,10 @@
 17:00 - 17:35 - creating html content 
 
 2015-06-23, wtorek
-08:30 - 09:20
+08:30 - 09:20 - CSS: Cascading Style Sheets
 
 2015-06-24, sroda
+09:50 - 10:40 - repetition
 
 2015-06-25, czwartek
 
