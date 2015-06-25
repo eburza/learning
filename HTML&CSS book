@@ -1,0 +1,78 @@
+wprowadzenie - ogólne pojecia dot. funkcjonowania stron internetowych, budowa stron internetowych, polaczeni z wybranymi stronami
+struktura - struktura strony, znaczniki, tagi i inne elementy strony
+html - opis struktury caej strony
+<html> elementy jezyka html, podzial na tagi:<html> otwierajacy, wszystko co w sobie zawiera jest pisane jezykiem html
+<body> elementy widziane przez uzytkownika strony
+<h1> main heading
+<p> paragraph
+<h2> sub-heading
+<p> tag otwierajacy       </p> tag zamykajacy
+atrybuty - informacje dotyczace elementyu, sklada sie z name i value
+attribute name - jakie dodatkowe info o elemencie chcemy zapisac
+attribute value - info i ustawienia dla atrybutu, zawsze zapisywany w "..."
+<body> elementy widoczne na stronie
+<head> info o stronie, elementy tytulu
+<title> tytul strony widoczny w gornym pasku wyszukiwarki
+((zrudlo strony ctrl + u)
+
+2 TEKST
+znaczniki strukturalne - pisanie naglowkow i paragafow
+znaczniki semantyczne - dodatkowe info dotyczace tekstu np. pogrobienie, cytowanie
+*headings - 6 poziomów
+<h1> main heading
+<h2> sub-heading
+<p> paragraphs
+<b> bold- pogrubienie tekstu
+<i> italic- kursywa
+<sup> superscript - czciaka mniejsza u gory
+<sub> subscript - czcionka mniejsza u dolu tekstu
+white space collapsing - bez wzgledu na ilosc pisanych spacji trona internetowa odczytuje jeden odstep
+<br /> line breaks- przerwa w ciagu paragrafu, wiersz od nowej linijki
+<hr /> horizontal rules - przerwa miedzy paragrafami, oddzielenie tematu zdan
+*semantic markup - informacje nie wplywajace na strukture strony, zawieraja info dotyczace strony
+<strong> podkreslenie waznosci, pogrubienie (wazne w czytnikach)
+<em> podkreslenie wartosci zdania, kursywa (wazne w czytnikach)
+*quotations - cytowanie
+<blackqote> dluzsze cytowanie obejmujace caly paragraf: <blackquote><p>...</p></blackquote>
+<q> krotkie cytowanie wwewnatrz paragrafu (nie dziala w Explorerze)
+oba cytowaniamoga używac atrybutu 'cite', w ktorego wartosci nalezy wpisac adres url np. <blackquote cite="http://wiki.org/"<p>...</p></blackquote>
+*abbreriations & acronyms - skroty i akronimy
+<abbr> otwierajacy tag uzywany do specyfikaji danego zdania np.<p><abbr title="profesor">Prof.</abbr>....</p>
+<p><acronym title="United States of America">USA</acronym>...</p>
+tekst w ten sposub napisany wyswietla sie w chmurkach
+<cite> citations, element w kursywie, cite pokazuje skad dany cytat pochodzi
+<dfn>definiowanie elementu po raz pierwszy w danym dokumencie, kursywa
+<addres> kontakt do autora strony np        <addres>     <p><a href="mailxs@example.org">mailxs@example.org</a></p>     <p>742 West Street. Springfild</p>         <addres>
+<ins> slowo wstawione do tekstu, podkreslone
+<del> slowo usuniete z tekstu, przekreslone
+<s> tekst uniewazniony, jednak nie usuwamy go calkowicie
+
+3LISTS
+ordered lists- elementy listy sa numerowane
+unordered lists - wypunktowane elementy listy
+definition lists - slowa powiazane z definicja
+<ol>lista punktowana
+<ul>lista punktowana
+<dl>lista z definicjami, stosuje sie tu tagi <dt> definiowany wyraz, <dd> definicja
+<li> elementy list
+
+4 LINKS
+linki sa pisane przy pomocy tagu <a>
+linki do stron innych badz na tej samej stronie pisany jest przez tag <a>, ktory ma atrybut 'href',jego wartoscia jest adres do ktorego chcemy przekierowac, przy href="..." wpisujemy absolute URL lub relativ URL
+email link <a mailto="mail@example.com">mail</a>
+link w nowym knie <a href="http://www.imdm.com" target-"_blank">internet database</a> 9open in new window)
+link do elementu na tej samej stronie - za pomoca atrybutu 'id'
+np <h1 id ="top">...<h1> powrot do tego miejsca <a href="#top">, podobie jest z elementam znajdujacymi sie na innych stronach, tyle ze # poprzedzone jest adresem URL
+
+5 IMAGES
+dodawanie przez ta <img>, brak tagu zamykajacego
+src - zrudlo grafiki, relativ link
+alt - opis grafiki dla komputrow z czytnikiem
+title - nie jest potrzebny, informacje dotyczace grafiki
+height - wysokosc w pixelach
+width - szerokosc w pixelach
+grafika umieszczona w stosunku do tekstu: przed tekstem <img><p>...</p>, poczatek paragrafu <p><img>...</p>, Srodek paragrafu <p>...<img>...</p>
+
+
+
+
