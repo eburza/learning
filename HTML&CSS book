@@ -72,7 +72,32 @@ title - nie jest potrzebny, informacje dotyczace grafiki
 height - wysokosc w pixelach
 width - szerokosc w pixelach
 grafika umieszczona w stosunku do tekstu: przed tekstem <img><p>...</p>, poczatek paragrafu <p><img>...</p>, Srodek paragrafu <p>...<img>...</p>
+formaty grafiki: jpg., gif., png., grafika wektorowa, animacja gif.,
+figure caption - podpis i grafika sa rozumiane jako calosc: <figure> <img.....><br /><figcaption>podps</figcaption></figure>
 
+6 TABLES
+twożymy je wypisujc po kolei wiersze
+<table></table>rozpoczcie oraz koniec pisania tabeli
+<tr> (table row) rozpoczcie pisania wiersza w tabeli
+<td> (table data) pojedyńcza komórka w wierszu 
+<th> (table headings) nagówek dla wiersza lub kolumny, jeżeli mamy pust komurk wciż musimy wpisać <th></th>
+    dla tytuu wiersza wpisujemy <th scope                ="row"> a dla tytuu kolumny <th scope="col">
+    gdy rozcigamy komurke, wpisujemy <th (lub td) colspan="2"> wtedy jedna komórka rozciga nam si na dwie, liczb dostosowujemy do iloci wchonietych komorek
+    gdy rozcigamy wiersz w "dól" stosujemy si jak powyżej tylko zamiast "celspan" wpisujemy "rowspan" i liczbe wchlonietych komorek
+long tables: przy dugich tabelach stosujemy regule jak przy projektowaniu strony html
+    zaczynamy od <table> wpisujemy <thead> wpisujemy elementy tytulow w tabeli<> <tbody> dane tabeli <> <tfoot> dane podkreslone pod danymi tabeli
+    </table>
 
-
+7 FORMS
+<form> rozpoczecie formulaza
+<form action="zawiera w sobie adres do którego przesyamy dane" method="używana metoda">
+Method: "get"- krotkie formulaze, dane aportowane ze strony
+        "post"- dlugi formularz, pobieranie danych, wrazliwe dane jak np hasla, dodawanie lub usuwanie informacji z bazy danych
+text input: <input> dodawanie controlerow do formularza, wartosc determinuje jaki rodzaj danych bedzie wprowadzany do formularza
+    type="text"- dodawany jest jeden wiersz tekstu
+    name="informacje dla serweru, jakie pdo podawane przez uzytkownika np: username"
+    maxlenght="maksymalna liczba znaków do wpisania w oknie"
+    type="password" wrażiwe dane, zakodowane; kolejnoć jak wyżej przy username
+<textarea> ramka tekstowa dla użytkownika
+   <form acton="http...><p- jakie pytanie, prosba o komentarz- /p><textarea name="coment">...</textarea></form>
 
