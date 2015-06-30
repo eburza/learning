@@ -32,5 +32,6 @@
 13:20 - 14:40 - HTML & CSS Book
 15:30 - 17:15 - HTML & CSS Book
 
-2015-06-26, piatek
+2015-06-30, poniedzialek
+09:30 - 11:00 - HTML &CSS Book
 
