@@ -79,3 +79,10 @@ quiz: 1 blad
 
 use ID selectors
 video: 
+
+
+
+
+
+2015-08-21
+repetition, html on teamtreeouse.
