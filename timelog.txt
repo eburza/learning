@@ -35,3 +35,5 @@
 2015-06-30, poniedzialek
 09:30 - 11:00 - HTML &CSS Book
 
+2015-08-21, piatek
+13:00 - 16:00 - treehouse
