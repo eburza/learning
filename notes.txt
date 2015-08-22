@@ -87,3 +87,6 @@ video:
 2015-08-21
 repetition, html on teamtreeouse.
 starts CSS
+
+2015-08-22
+ad colors and fonts, resize text
