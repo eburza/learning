@@ -90,3 +90,6 @@ starts CSS
 
 2015-08-22
 ad colors and fonts, resize text
+
+2015-08-23
+styling pages and navigation, adding pages, 
