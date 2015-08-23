@@ -1,0 +1,18 @@
+2015-08-24 - finish "how to make a website"
+
+2015-08-25 - css basics (getting started with css; basic selectors; understanding values and units; the box model)
+
+2015-08-26 - css basics (basic layout; designing with latest features; fundamental concepts)
+
+2015-08-27 - css selectors (selectors; atribute selectors and pseudo classes; advanced selectors)
+
+2015-08-28 - html forms ( forms basics; organizing forms; choosing options)
+           html tables (table basics; structuring tables)
+
+2015-08-29 - css layout (display models; float layout; positioning schemes; flexbox layout; grid layout)
+
+2015-08-30 - design foundations ( introduction to desin; understanding aesthetics; becoming a problem solver; design foundations final)
+           -photoshop foudations (workspace basics; layer basics; masks basics; type tool)
+
+2015-08-31 - photoshop foundations ( vector shapes; slice & save for web; workflow basics)
+           - ilustrator foundations (introduction to Adobe Illustrator; Creating an icon; dding color and type)
