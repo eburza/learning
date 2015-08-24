@@ -45,3 +45,6 @@
 2015-08-23, niedziela
 14:50 - 16:50 - treehouse
 19:40 - 20:30 -th
+
+2015-08-24, poniedzialek
+12:00 - 14:20 - th
