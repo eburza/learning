@@ -94,3 +94,6 @@ ad colors and fonts, resize text
 2015-08-23
 styling pages and navigation, adding pages, 
 iconograpy, icons, img-background, adding pages
+
+2015-08-24
+debugging, testing site, sharing website
