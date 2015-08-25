@@ -97,3 +97,6 @@ iconograpy, icons, img-background, adding pages
 
 2015-08-24
 debugging, testing site, sharing website
+
+2015-08-25
+css basics (getting started with css; basic selectors)
