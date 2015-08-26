@@ -101,3 +101,6 @@ debugging, testing site, sharing website
 2015-08-25
 css basics (getting started with css; basic selectors)
           (understanding values and units; the box model)
+          
+2015-08-26 
+css basics (basic layout; designing with latest features; fundamental concepts)
