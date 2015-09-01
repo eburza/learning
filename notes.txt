@@ -107,3 +107,6 @@ css basics (basic layout; designing with latest features; fundamental concepts)
 
 2015-08-28
  css selectors (selectors; atribute selectors and pseudo classes; advanced selectors)
+ 
+ 2015-09-01
+ css layout (display models; float layout; positioning schemes
