@@ -1,0 +1,5 @@
+TASK 1
+* cala czerwona strona, bez zadnej tresci i bez zadnych marginesow
+* kolor czerwony przy uzyciu kodow heksadecymalnych
+* tytul strony w przegladarce: "Bartek jest zajebisty"
+* wszystkie css zawarte w zaladowanym pliku css
