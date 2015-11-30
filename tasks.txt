@@ -1,3 +1,7 @@
+TASK 0
+* utworz nowe publiczne repozytorium na github: "eburza/tasks"
+* tam dodawaj wszystkie pliki
+
 TASK 1
 * cala czerwona strona, bez zadnej tresci i bez zadnych marginesow
 * kolor czerwony przy uzyciu kodow heksadecymalnych
