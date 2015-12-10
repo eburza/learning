@@ -7,3 +7,6 @@ TASK 1
 * kolor czerwony przy uzyciu kodow heksadecymalnych
 * tytul strony w przegladarce: "Bartek jest zajebisty"
 * wszystkie css zawarte w zaladowanym pliku css
+
+TASK 2
+* dodaj kwadraciki ze schematu w task.jpg
