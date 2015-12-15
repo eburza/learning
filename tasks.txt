@@ -10,3 +10,8 @@ TASK 1
 
 TASK 2
 * dodaj kwadraciki ze schematu w task_2.jpg
+
+TASK 3
+* zrob plik task_3.html i style_3.css
+* uzyj tylko 5 roznych klas (bez id)
+* schemat w zalaczniku task_3.jpg
