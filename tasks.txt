@@ -15,3 +15,11 @@ TASK 3
 * zrob plik task_3.html i style_3.css
 * uzyj tylko 5 roznych klas (bez id)
 * schemat w zalaczniku task_3.jpg
+
+TASK 4
+* znajdz pliki psd, z ktorych chcialabys zrobic strone
+przyklady:
+http://freebiesbug.com/psd-freebies/website-template/
+http://designscrazed.org/free-photoshop-psd-website-templates/
+(poszukaj tez w necie)
+
